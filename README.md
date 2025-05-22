@@ -2,9 +2,11 @@
 
 **Author:** Pablo Beltran <br>
 **Version:** v1.0.0 <br>
-**Release Data:** May 12th, 2025 <br>
+**Release Data:** May 22th, 2025 <br>
 
 ## What is AstroText 🚀?
+
+![AstroText Demo](./.docs/AstroText.gif)
 
 AstroText is a lightweight Chrome extension that enhances and improves user-written text using a Large Language Model (LLM) API, such as OpenAI's GPT. It focuses on grammar correction, lexical improvements, and tone adjustment to support both non-native and native English speakers—especially in contexts like social media posts or professional emails.
 
