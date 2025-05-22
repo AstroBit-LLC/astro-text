@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "AstroText",
     "version": "1.0.0",
-    "description": "Enhance and improve text using AI to support better writing",
+    "description": "AstroText is an open-source extension to enhance and improve text using AI to support better writing",
     "icons": {
       "16": "icons/icon16.png",
       "48": "icons/icon48.png",
